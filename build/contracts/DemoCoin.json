@@ -1,5 +1,5 @@
 {
-  "contract_name": "GustavoCoin",
+  "contract_name": "DemoCoin",
   "abi": [
     {
       "constant": true,
