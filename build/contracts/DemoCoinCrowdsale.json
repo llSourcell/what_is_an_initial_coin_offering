@@ -1,5 +1,5 @@
 {
-  "contract_name": "GustavoCoinCrowdsale",
+  "contract_name": "DemoCoinCrowdsale",
   "abi": [
     {
       "constant": true,
