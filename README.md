@@ -14,23 +14,23 @@ This is the code for [this](https://youtu.be/iyuZ_bCQeIE) video on Youtube by Si
 
 In terminal run these commands in order
 
-``
+```
 $ npm install -g ethereumjs-testrpc
 $ npm install -g truffle
 $ mkdir my-ico && cd my-ico
 $ truffle init
 $ npm install zeppelin-solidity
-``
+```
 
 Install npm [here](https://www.npmjs.com/) if you don't have it already.
 
 Then run the test chain & configure Truffle
-``
+```
 $ testrpc -u 0
 $ truffle compile
 $ truffle migrate
 $ truffle console
-``
+```
 
 Then buy some DemoCoin via the Truffle Console
 
