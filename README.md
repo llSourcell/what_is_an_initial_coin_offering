@@ -34,7 +34,7 @@ $ truffle console
 
 Then buy some DemoCoin via the Truffle Console
 
-``
+```
 // The account that will buy DEM tokens.
 > account1 = web3.eth.accounts[1]
 '0xddac5d057c79facd674bc95dfd9104076fd34d6b'
@@ -69,7 +69,7 @@ undefined
 // When we created our token we made it with 18 decimals, which the same as what ether has. That's a lot of zeros, let's display without the decimals:
 > web3.fromWei(account1DemTokenBalance, "ether")
 '5000'
-``
+```
 
 ## Credits 
 
